@@ -6,7 +6,7 @@
 
 # Hey, I'm Atharva Desai 👋
 
-**Data Science Student** · B.Tech CSE (Data Science) '27 · India
+**Data Scientist** · CSE (Data Science) '27 @SSGBCOET Bhusawal · India
 
 *I enjoy turning raw data into meaningful insights and building machine learning solutions that solve real-world problems.*
 
