@@ -1,7 +1,7 @@
 ```
-╔══════════════════════════════════════════════════════════╗
-║   Turning raw data into decisions. One model at a time.   ║
-╚══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║   "Data tells stories. I build systems that help people understand them."     ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # Hey, I'm Atharva Desai 👋
@@ -26,15 +26,6 @@ Currently focused on:
 - 💼 Business Intelligence
 - 🐍 Python Development
 
-```python
-atharva = {
-    "role":              "Data Science Student",
-    "currently_learning": ["Machine Learning", "Data Analytics", "Deep Learning", "MLOps"],
-    "interests":          ["Customer Analytics", "Computer Vision", "Business Intelligence", "Predictive Modeling"],
-    "goal":               "Become a Data Scientist",
-    "graduation":         "2027"
-}
-```
 
 ---
 
@@ -75,12 +66,11 @@ atharva = {
 
 | Project | What it does | Stack |
 |---|---|---|
-| 📊 **[Customer Churn Prediction System](#)** | Predicts customer churn using behavioral and transactional data | Python · Scikit-Learn · XGBoost · Streamlit |
+| 📊 **[Customer Churn Prediction and Risk Analyzer](https://github.com/athhh07/Customer-Churn-Prediction-and-Risk-Analyzer)** | Predicts customer churn using behavioral and transactional data | Python · Scikit-Learn · XGBoost · Streamlit |
 | 🫁 **[VisionTech – AI Pneumonia Detection](https://github.com/athhh07/VisionTech-AI-Powered-Pneumonia-Detection-)** | Deep learning–based pneumonia detection from chest X-ray images | TensorFlow · Keras · CNN · Streamlit |
 | 🧠 **[NeuroPlus AI – Brain Tumor Classifier](https://github.com/athhh07/Neuroplus-AI-Brain-Tumor-Classifier)** | Classifies brain MRI scans into glioma, meningioma, pituitary, or no tumor | TensorFlow · MobileNetV2 · Streamlit |
-| 📈 **[IPL Match Score Analysis](#)** | Data analytics project using IPL datasets | Python · Pandas · Matplotlib |
-| 🤖 **[Face Recognition System](#)** | Computer vision project for real-time face recognition | Python · OpenCV |
-
+| 🚦 **[Smart City Traffic Analysis](https://github.com/athhh07/Smart-City-Traffic-Analysis)** | Analyzes urban traffic patterns to identify congestion hotspots and generate actionable insights for smarter city planning | Python · Pandas · NumPy · Matplotlib · Seaborn |
+| ✈️😊 **[Flight Price & Customer Satisfaction Prediction System](https://github.com/athhh07/Flight-Price-and-Customer-Satisfaction-Prediction-System)** | Predicts airline ticket prices and customer satisfaction using machine learning and data-driven analytics | Python · Pandas · NumPy · Scikit-Learn · Streamlit |
 ---
 
 ## 📊 GitHub Stats
@@ -95,19 +85,19 @@ atharva = {
 
 ## 🎯 Current Goals
 
-- 🏗️ Build 10+ industry-ready Data Science projects
+- 🏗️ Build 20+ industry-ready Data Science projects
 - 📐 Strengthen Machine Learning fundamentals
 - 🧬 Learn Deep Learning and MLOps
-- 💼 Secure a Data Science Internship
+- 💼 Secure a Data Science Role
 - 🌍 Contribute to Open Source
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [YOUR_LINKEDIN_URL](#)
+- 💼 **LinkedIn:** [www.linkedin.com/atharva-desai](www.linkedin.com/in/atharva-desai-3b24142a8)
 - 🐙 **GitHub:** [github.com/athhh07](https://github.com/athhh07)
 
 ---
 
-*"Data tells stories. I build systems that help people understand them."*
+
