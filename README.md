@@ -63,7 +63,6 @@ Currently focused on:
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](#)
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](#)
 [![Azure ML](https://img.shields.io/badge/Azure_ML-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](#)
 
 **Tools & Version Control**
