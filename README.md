@@ -4,7 +4,7 @@
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-# Hey, I'm Atharva Desai 👋
+# Hello, I'm Atharva Desai 👋
 
 **Aspiring Data Scientist** · CSE (Data Science) '27 @SSGBCOET Bhusawal · India
 
