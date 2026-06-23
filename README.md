@@ -1,7 +1,7 @@
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║   "Data tells stories. I build systems that help people understand them."     ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║   "Data tells stories. I build systems that help people understand them."        ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # Hello, I'm Atharva Desai 👋
@@ -18,6 +18,13 @@
 ---
 
 ## 🚀 About Me
+
+I didn’t choose Data Science as a career overnight—it actually started with a simple curiosity: how can raw numbers and data tell meaningful stories and impact real-life decisions? That curiosity slowly grew into a genuine passion for finding patterns, building smart solutions, and solving problems through code.
+
+What excites me the most is how data can be used to make smarter decisions—whether it’s through predictions, insights, or visualizations. I love trying out new ideas, learning new tools, and constantly pushing myself to grow.
+
+I’m always open to new opportunities, collaborations, and meaningful conversations that help me learn, build, and improve every day.
+
 
 Currently focused on:
 
@@ -99,10 +106,17 @@ Currently focused on:
 
 ## 🏅 Certifications
 
-- **Oracle Certified Data Science Professional** — Oracle (Oct 2025)
 - **HP Life — Data Science & Analytics** — HP (Feb 2026)
-- **Data Science Internship** — Navodita Infotech (Jan–Feb 2026)
-- **Data Science Internship** — Unified Mentor Pvt. Ltd. (Oct 2025–Jan 2026)
+- **Oracle Certified Data Science Professional** — Oracle (Oct 2025)
+- **Deloitte — Data Analytics Job Simulation** — Deloitte (Sept 2025) 
+
+---
+
+## 🧑‍💻 Experience
+
+- **Data Science and Machine Learning Intern** — UpSkill Campus (Apr-May 2026)
+- **Data Science Intern** — Navodita Infotech (Jan–Feb 2026)
+- **Data Science Intern** — Unified Mentor Pvt. Ltd. (Oct 2025–Jan 2026)
 
 ---
 
@@ -119,8 +133,7 @@ Currently focused on:
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/atharva-desai](https://www.linkedin.com/in/atharva-desai-3b24142a8)
-- 🐙 **GitHub:** [github.com/athhh07](https://github.com/athhh07)
+- 💼 **LinkedIn:** [linkedin.com/in/atharva-desai](https://www.li
 - 📧 **Email:** [desaiatharva703@gmail.com](mailto:desaiatharva703@gmail.com)
 
 ---
